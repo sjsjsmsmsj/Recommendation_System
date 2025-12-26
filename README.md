@@ -1,0 +1,12 @@
+# Contributors: 
+## Lâm Gia Thịnh | Computer Science Student and Backend Engineer Intern | Owner of this respository
+
+## I would like to build recommendation system to help admin of the ecommerce 
+## This website, help admin know their products that need to import a lot or remove it for the future
+
+#### Step 1: Use Figma to Design UI/UX for client
+#### Step 2: Design database (using rails) and API endpoints
+#### Step 3: Use AI brain (Python FastAPI)
+#### Step 4: Build Frontend
+#### Step 5: Connection and Deploy (Using docker, render ....)
+
