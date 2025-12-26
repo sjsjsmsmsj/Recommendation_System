@@ -1,0 +1,30 @@
+- Github to solve real problems: 
+
+First of all 
+- Open terminal,  clone your local: git clone https://github.com/sjsjsmsmsj/Recommendation_System.git
+
+- Rule for git: 
+
+- Thịnh will assign task for everyone, to handle it 
+- Every 2 weeks for 1 sprint 
+- Thịnh will review code and merge it into (main/master)
+- If you don't understand any task, please call me
+
+- I will create a branch for each sprint
+- This branch named sprint_number   
+- You have to checkout for that branch : git checkout sprint_number (number: 1, 2 , 3 , ....)
+- After you have wrote codes, you have to flow this: 
+    git add (some files changes )         [for an example: git add README.md]
+    git commit -m "fix|feature some content to solve task"
+    git push 
+    
+    how to create a pull request:
+        open github
+        it will show: create a pull request, you only click and create it
+        assign: sjsjsmsmsj
+        labels: ready for review| ready for merge
+
+- When you have different problem, please take note in this. Thank you for contribute
+
+    
+        

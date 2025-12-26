@@ -10,3 +10,6 @@
 #### Step 4: Build Frontend
 #### Step 5: Connection and Deploy (Using docker, render ....)
 
+
+### I'm Thinh, who is leading this project
+
