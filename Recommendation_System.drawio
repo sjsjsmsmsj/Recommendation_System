@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="Trang-1" id="FolLf9-GhFcjhmKZq96N">
+    <mxGraphModel dx="2393" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Users" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" target="Y_SOdd5jg3L32xS4Ours-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="220" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="id" vertex="1">
+          <mxGeometry height="40" width="120" x="10" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-4" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;exitX=0.882;exitY=-0.083;exitDx=0;exitDy=0;exitPerimeter=0;" target="Y_SOdd5jg3L32xS4Ours-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="195.83999999999992" y="290.0000000000001" as="sourcePoint" />
+            <mxPoint x="340" y="194.98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="email" vertex="1">
+          <mxGeometry height="40" width="120" x="130" y="144.98" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-7" edge="1" parent="1" source="Y_SOdd5jg3L32xS4Ours-1" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Y_SOdd5jg3L32xS4Ours-8" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="520" as="sourcePoint" />
+            <mxPoint x="300" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="role" vertex="1">
+          <mxGeometry height="40" width="120" x="150" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-9" edge="1" parent="1" source="Y_SOdd5jg3L32xS4Ours-1" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" target="Y_SOdd5jg3L32xS4Ours-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="190" y="550" as="sourcePoint" />
+            <mxPoint x="240" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="created_at" vertex="1">
+          <mxGeometry height="30" width="150" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-11" edge="1" parent="1" source="Y_SOdd5jg3L32xS4Ours-1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="Y_SOdd5jg3L32xS4Ours-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50" y="350" as="sourcePoint" />
+            <mxPoint x="140" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Y_SOdd5jg3L32xS4Ours-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="email" vertex="1">
+          <mxGeometry height="40" width="120" x="-70" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
