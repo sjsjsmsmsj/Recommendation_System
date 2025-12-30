@@ -3,7 +3,6 @@
 ## Nguyễn Thành Huy | Computer Science Student 
 ## Nguyễn Thị Thanh Thư | Computer Science Student 
 
-
 ## I would like to build recommendation system to help admin of the ecommerce 
 ## This website, help admin know their products that need to import a lot or remove it for the future
 
