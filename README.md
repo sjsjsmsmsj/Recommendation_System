@@ -9,6 +9,7 @@
 #### Step 1: Use Figma to Design UI/UX for client 
 ( link: https://www.figma.com/design/HuBytR2U0T5ntE2sqYj5qgRecommendation_System?node-id=0-1&t=0wVU2JZ4Gw59ESjj-1 )
 #### Step 2: Design database (using rails) and API endpoints
+( link: https://app.diagrams.net/ )
 #### Step 3: Use AI brain (Python FastAPI)
 #### Step 4: Build Frontend
 #### Step 5: Connection and Deploy (Using docker, render ....)
