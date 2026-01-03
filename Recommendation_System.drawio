@@ -52,12 +52,6 @@
             <mxPoint x="450" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDBGygvaAjeVg6Ihy6-S-18" edge="1" parent="1" source="BDBGygvaAjeVg6Ihy6-S-10" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="BDBGygvaAjeVg6Ihy6-S-6" value="include">
-          <mxGeometry relative="1" width="160" as="geometry">
-            <mxPoint x="500" y="440" as="sourcePoint" />
-            <mxPoint x="660" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="BDBGygvaAjeVg6Ihy6-S-20" edge="1" parent="1" source="BDBGygvaAjeVg6Ihy6-S-7" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" target="BDBGygvaAjeVg6Ihy6-S-6" value="extend">
           <mxGeometry relative="1" width="160" as="geometry">
             <mxPoint x="550" y="290" as="sourcePoint" />
@@ -66,6 +60,9 @@
         </mxCell>
         <mxCell id="BDBGygvaAjeVg6Ihy6-S-22" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Quản lý người dùng&amp;nbsp;" vertex="1">
           <mxGeometry height="80" width="120" x="820" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BDBGygvaAjeVg6Ihy6-S-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Thanh toán" vertex="1">
+          <mxGeometry height="80" width="120" x="595" y="20" as="geometry" />
         </mxCell>
         <mxCell id="BDBGygvaAjeVg6Ihy6-S-23" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Quản lý module AI" vertex="1">
           <mxGeometry height="80" width="120" x="820" y="170" as="geometry" />
@@ -100,9 +97,6 @@
             <mxPoint x="950" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BDBGygvaAjeVg6Ihy6-S-42" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Thanh toán" vertex="1">
-          <mxGeometry height="80" width="120" x="595" y="20" as="geometry" />
-        </mxCell>
         <mxCell id="BDBGygvaAjeVg6Ihy6-S-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Đăng xuất" vertex="1">
           <mxGeometry height="80" width="120" x="520" y="380" as="geometry" />
         </mxCell>
@@ -119,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I7rw6LivGOppeyn2FSGm-1" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Note&lt;/span&gt;&lt;/h1&gt;&lt;h3 data-start=&quot;2876&quot; data-end=&quot;2922&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;- Hệ thống AI (ghi chú, không phải actor)&lt;/font&gt;&lt;/h3&gt;&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;ul data-start=&quot;2923&quot; data-end=&quot;2982&quot;&gt;&lt;li data-start=&quot;2923&quot; data-end=&quot;2938&quot;&gt;&lt;p data-start=&quot;2925&quot; data-end=&quot;2938&quot;&gt;Xử lý yêu cầu&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;2939&quot; data-end=&quot;2958&quot;&gt;&lt;p data-start=&quot;2941&quot; data-end=&quot;2958&quot;&gt;Phân luồng module&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;2959&quot; data-end=&quot;2972&quot;&gt;&lt;p data-start=&quot;2961&quot; data-end=&quot;2972&quot;&gt;Trả kết quả&lt;/p&gt;&lt;/li&gt;&lt;li data-start=&quot;2973&quot; data-end=&quot;2982&quot;&gt;&lt;p data-start=&quot;2975&quot; data-end=&quot;2982&quot;&gt;Ghi log&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;-&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-weight: normal;&quot;&gt;Tất cả các chức năng quản trị yêu cầu quản trị viên đã đăng nhập&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;ul data-start=&quot;2923&quot; data-end=&quot;2982&quot;&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;&lt;p data-start=&quot;2984&quot; data-end=&quot;3042&quot;&gt;&lt;/p&gt;&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="340" width="410" x="1010" y="480" as="geometry" />
+          <mxGeometry height="400" width="410" x="1010" y="480" as="geometry" />
         </mxCell>
         <mxCell id="I7rw6LivGOppeyn2FSGm-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Đăng ký" vertex="1">
           <mxGeometry height="80" width="120" x="380" y="480" as="geometry" />
