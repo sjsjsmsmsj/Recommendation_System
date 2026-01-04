@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  ai_module: one
+  ai_request: one
+  used_at: 2026-01-04 17:40:08
+
+two:
+  user: two
+  ai_module: two
+  ai_request: two
+  used_at: 2026-01-04 17:40:08
