@@ -49,6 +49,6 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
   gem 'jwt'
   gem 'bcrypt'
-
+  gem 'rack-cors'
 
 end
