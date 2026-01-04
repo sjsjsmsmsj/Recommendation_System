@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  amount: 9.99
+  payment_method: MyString
+  payment_status: MyString
+  paid_at: 2026-01-04 17:40:13
+
+two:
+  user: two
+  amount: 9.99
+  payment_method: MyString
+  payment_status: MyString
+  paid_at: 2026-01-04 17:40:13
