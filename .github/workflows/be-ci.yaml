@@ -22,3 +22,4 @@ jobs:
           echo "Start lint..."
           echo "Install tool..."
           echo "Lint done."
+          echo "Lam Gia Thinh"

@@ -1,3 +1,6 @@
+- video hướng dẫn: 
+    video 1: https://youtu.be/gJW-Rz5x8N8?si=0XkRcTUZvqFpwwJ2
+
 # GitHub Actions gồm những thành phần:
 Nó nằm trong .github/workflows
 - Workflows: là những file .yaml, có thể chứa 1 hoặc nhiều jobs
