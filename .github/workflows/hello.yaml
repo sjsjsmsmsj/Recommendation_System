@@ -9,13 +9,16 @@ jobs:
   hello: 
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Node version 14
-        uses: actions/setup-node@v2
+      - name: Clone codebase
+        uses: actions/checkout@v4 # clone codebase
+
+      - name: Set up Node version 20
+        uses: actions/setup-node@v4
         with:
-          node-version: 14
-      - name: Checkout 
-        uses: actions/checkout@v3
-      - name: Check directories
-        run: ls
-      - name: Check node version
+          node-version: 20
+
+      - name: Kiểm tra thư mục
+        run: ls -la
+
+      - name: Kiểm tra phiên bản Node
         run: node -v
