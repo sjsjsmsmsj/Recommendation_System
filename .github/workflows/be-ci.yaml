@@ -2,13 +2,15 @@ name: BE-CI
 
 on: 
   pull_request:
-   branches: 
-    - 'main'
-   paths:
-    - backend/**
+    branches: 
+      - main
+    paths:
+      - 'backend/**'
+
 defaults:
   run: 
-   working-directory: ./backend
+    working-directory: ./backend
+
 jobs:
   run-quality-code:
     runs-on: ubuntu-latest
@@ -20,4 +22,3 @@ jobs:
           echo "Start lint..."
           echo "Install tool..."
           echo "Lint done."
-          
