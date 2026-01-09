@@ -13,5 +13,7 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 14
+      - name: Check directories
+        run: ls
       - name: Check node version
         run: node -v
