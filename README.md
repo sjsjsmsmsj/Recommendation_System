@@ -8,7 +8,7 @@
 #### Step 2: Design database and API endpoints 
 #### Step 3: Use AI brain (Python FastAPI), Postgres, Rails
 #### Step 4: Build Frontend (React)
-#### Step 5: Connection and Deploy (Using docker, render ....)
+#### Step 5: Connection and Deploy (Using docker, render, GitHub Actions)
 
 ### Using plane to manage the team
 ### Take note everything ( https://iuhedu-my.sharepoint.com/:w:/g/personal/23703881_thinh_student_iuh_edu_vn/IQAWnj25XT4TTYaJ-izLp3B0AYJacpSHHAzOv3pWbsqGg1M?e=MU5wSf )
