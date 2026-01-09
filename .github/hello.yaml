@@ -4,6 +4,9 @@ on:
   push: 
     branches:
       - feat/ci-cd
+  pull_request:
+    branches:
+      - feat/ci-cd
 
 jobs:
   hello: 
