@@ -1,0 +1,25 @@
+# GitHub Actions gồm những thành phần:
+Nó nằm trong .github/workflows
+- Workflows: là những file .yaml, có thể chứa 1 hoặc nhiều jobs
+- Event: là hành động push, pull request 
+- Job: là dùng để thực hiện một số công việc phức tạp(như set up môi trường, chạy test...)
+- Runners: Máy chủ (Linux, Windows, macOS) mà GitHub cung cấp để chạy Workflows
+
+
+# CI (Continious Integration)
+- Tự động hóa gộp code của nhiều lập trình viên vào chung
+kho lưu trữ (như GitHub) nhiều lần trong ngày.
+
+- Mục tiêu: Phát hiện lỗi 
+- Hoạt động: Mỗi lần có code mới thực hiện chạy test
+
+# CD (Continious Delivery & Continous Deployment)
+
+- CD là bước tiếp theo sau CI, tập trung vào việc đưa code ra môi trường thực tế.
+
+- Continious Delivery: Tự động đóng gói(build) các bản 
+cài đặt sẵn sàng cho triển khai. Nhưng phải cần người xác nhận
+
+- Continious Deployment: Tự động đóng gói(build) các bản 
+cài đặt sẵn sàng cho triển khai. Mà không cần người sử dụng xác nhận
+
