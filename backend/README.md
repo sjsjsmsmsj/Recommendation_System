@@ -19,3 +19,5 @@
 - Payload: Thông tin người dùng (ID, tên, quyền hạn...).
 
 - Signature: Chữ ký bảo mật (để đảm bảo không ai sửa được Payload).
+
+## GitHub Action 
